@@ -52,3 +52,15 @@ Feel free to contribute to the project or report issues by creating a pull reque
 - A specific format image can be entered, and specific information from that image can be obtained to create a table in a CSV file.
 
 
+
+## Example Usage
+
+- Firstly Push Select File button and find a image includes text.
+
+![Alt text](image1.png)
+
+![Alt text](image2.png)
+
+- After loading file in the left there is image part, in the right there is text part. You can use copy, delete, and cut function for text part.
+
+![Alt text](image3.png)
