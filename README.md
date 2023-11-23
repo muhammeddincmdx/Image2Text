@@ -4,7 +4,7 @@ This program is designed to extract text from images. It supports image formats 
 
 ### example
 ```bash
-texta = pytesseract.image_to_string(resized_image, lang="tr")
+texta = pytesseract.image_to_string(resized_image, lang="tur")
 ```
 
 
