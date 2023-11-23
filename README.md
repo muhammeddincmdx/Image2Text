@@ -50,7 +50,7 @@ Feel free to contribute to the project or report issues by creating a pull reque
 - Implement visual improvements.
 - Allow the user to choose the file type at the beginning, such as PDF, Word, JPEG, PNG, for example.
 - A specific format image can be entered, and specific information from that image can be obtained to create a table in a CSV file.
-
+- There is an issue about installing picture sometimes return empty.
 
 
 ## Example Usage
